@@ -20,7 +20,7 @@
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:180px 0; text-align:center;}
+#pageintro{padding:70px 0; text-align:center;}
 
 #pageintro > div{display:block; max-width:60%; margin:0 auto;}
 #pageintro > div *{line-height:normal;}
